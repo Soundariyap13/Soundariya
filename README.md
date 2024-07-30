@@ -1,3 +1,2 @@
-# Soundariya
-Value added course
-for react os
+# VALUE ADDED COURSE
+FOR REACT OS
